@@ -3,7 +3,8 @@ There are one relay and two LDR sensors. One of them activates the relay and the
 MCU:		PIC16F877A    
 Frequency:     	8MHz (External Crystal)    
 
-Note: It's a easy project with PIC and was a prototype. Although this made using microcontroller but, it could be done with logic gates.
+Note: It's a easy project with PIC and was a prototype. Although this made using microcontroller but, it could be done with logic gates.  
+Note: Included schematic and PCB layout with Proteus 
 
 ### Folder and Files Description
 It has included:

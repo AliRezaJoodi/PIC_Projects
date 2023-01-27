@@ -4,7 +4,8 @@ MCU:		PIC16F877A
 Frequency:     	8MHz (External Crystal)   
 Display:        16x2 LCD   
 
-Note: It was a prototype and should get better.
+Note: It was a prototype and should get better.  
+Note: Included schematic and PCB layout with Proteus 
 
 ### Folder and Files Description
 It has included:
