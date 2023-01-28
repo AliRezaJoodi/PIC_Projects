@@ -2,4 +2,4 @@
 
 v1.0:
 - Last opened with Proteus 8 Professional v8.13 SP0
-- Usable for `Code_mikroC Pro for PIC v2.5`
+- Usable for `Code_mikroC for PIC`

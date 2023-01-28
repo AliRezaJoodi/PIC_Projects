@@ -6,7 +6,7 @@ I'm uploading my personal projects on the repository.
 ![](GasDetector/Pictures/Album.jpg)
 
 ### List of the Repository
-|Title|mikroC Pro for PIC|PIC Basic PRO|
-|:----|:----------------:|:-----------:|
+|Title|mikroC for PIC|PIC Basic PRO|
+|:----|:------------:|:-----------:|
 |[GasDetector](GasDetector)|Y|-|
 |[RelayController_LaserPointer_1CH](RelayController_LaserPointer_1CH)|-|Y|

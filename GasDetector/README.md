@@ -9,9 +9,10 @@ Note: Included schematic and PCB layout with Proteus
 
 ### Folder and Files Description
 It has included:
-- `Code_mikroC PRO for 8051` (Code with C Language)
+- `Code_mikroC for PIC` (Code with C Language)
 - `Hardware` (Included hardware layers)
 - `Pictures` (Photos Samples Made)
+- `Simulate` (Simulator File)
 
 ### Pictures: v1.0
 ![](Pictures/v1.0.jpg)
