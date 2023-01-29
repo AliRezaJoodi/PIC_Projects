@@ -1,5 +1,4 @@
-## Tel Card Reader
-It's usable for MQx Gas Sensors.  	   
+## Tel Card Reader 	   
 MCU:		PIC16F877A  
 Frequency:     	8MHz (External Crystal)   
 Display:        16x2 LCD   
