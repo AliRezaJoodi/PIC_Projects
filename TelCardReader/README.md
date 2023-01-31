@@ -4,6 +4,7 @@ Frequency:     	8MHz (External Crystal)
 Display:        16x2 LCD   
 
 Note: Included schematic and PCB layout with Proteus 
+Note: It's a prototype and should get better 
 
 ### Folder and Files Description
 It has included:

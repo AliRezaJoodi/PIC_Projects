@@ -6,6 +6,7 @@ Display:        16x2 LCD
 Sensor:		SRF02 Ultrasonic Moudle (I2C Interfacing)     
 
 Note: Included schematic and PCB layout with Proteus 
+Note: It's a prototype and should get better
 
 ### Folder and Files Description
 It has included:
