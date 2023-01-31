@@ -6,7 +6,7 @@ Computer Interfacing:	TTL UART to RS232 Converter
 Computer Software:	Matlab
 
 Note: The microcontroller has the role of UART to parallel converter  
-Note: Included schematic and PCB layout with Proteus 
+Note: Included schematic and PCB layout with Proteus  
 Note: It's a prototype and should get better
 
 ### Folder and Files Description
