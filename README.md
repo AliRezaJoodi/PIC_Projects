@@ -6,11 +6,13 @@ I'm uploading my personal projects on the repository.
 ![](GasDetector/Pictures/Album.jpg)
 ![](TelCardReader/Pictures/Album.jpg)
 ![](TextDisplay_LCD_PS2Keybord/Pictures/Album.jpg)
+![](MotorDriver_UnipolarStepperMotor_RS232/Pictures/Album.jpg)
 
 ### List of the Repository
 |Title|mikroC for PIC|PIC Basic PRO|
 |:----|:------------:|:-----------:|
 |[GasDetector](GasDetector)|Y|-|
+|[MotorDriver_UnipolarStepperMotor_RS232](MotorDriver_UnipolarStepperMotor_RS232)|Y|Y|
 |[RelayController_LaserPointer_1CH](RelayController_LaserPointer_1CH)|-|Y|
 |[TelCardReader](TelCardReader)|Y|-|
 |[TextDisplay_LCD_PS2Keybord](TextDisplay_LCD_PS2Keybord)|Y|-|
