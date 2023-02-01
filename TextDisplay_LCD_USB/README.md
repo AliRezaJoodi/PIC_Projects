@@ -6,7 +6,7 @@ Frame format is
 |"B"|"Hello World"|13|Display 'Hello World' on the second line|
 	   
 MCU:			PIC16F877A  
-Frequency:     		11.059200MHz (External Crystal)   
+Frequency:     		8MHz (External Crystal)   
 Display:        	16x2 LCD        
 Computer Interfacing:	UART to USB Converter  
 Computer Software:	VB6	
