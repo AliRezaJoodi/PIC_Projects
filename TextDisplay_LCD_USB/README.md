@@ -11,6 +11,9 @@ Display:        	16x2 LCD
 Computer Interfacing:	UART to USB Converter  
 Computer Software:	VB6	
 
+Note: Included schematic and PCB layout with Proteus  
+Note: It's a prototype and should get better
+
 ### Folder and Files Description
 It has included:
 - `Code_mikroC for PIC` (Code with C Language)
