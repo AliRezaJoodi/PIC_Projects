@@ -2,8 +2,8 @@
 Frame format is
 |Line Command|Text|End Chr|Description|
 |:-----------|:---|:------|:----------|
-|"A"|"Hello World"|13|Display 'Hello World' on the first line|
-|"B"|"Hello World"|13|Display 'Hello World' on the second line|
+|'A'|"Hello World"|13|Display `Hello World` on the first line|
+|'B'|"Hello World"|13|Display `Hello World` on the second line|
 	   
 MCU:			PIC16F877A  
 Frequency:     		8MHz (External Crystal)   
