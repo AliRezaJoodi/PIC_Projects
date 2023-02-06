@@ -10,7 +10,7 @@ I'm uploading my personal projects on the repository.
 ![](DigitalMeter_Ultrasonic_SRF02/Pictures/Album.jpg)
 ![](TextDisplay_LCD_USB/Pictures/Album.jpg)
 
-### List of the Repository
+### Table of Contents
 |Title|mikroC for PIC|PIC Basic PRO|
 |:----|:------------:|:-----------:|
 |[DigitalMeter_Ultrasonic_SRF02](DigitalMeter_Ultrasonic_SRF02)|Y|-|
