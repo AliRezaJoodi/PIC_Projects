@@ -5,7 +5,7 @@ I'm uploading my personal projects on the repository.
 ![](TelCardReader/Pictures/Album.jpg)
 ![](RelayController_LaserPointer_1CH/Pictures/Album.jpg)
 ![](GasDetector/Pictures/Album.jpg)
-![](TextDisplay_Keybord/Pictures/Album.jpg)
+![](TextDisplay_Keyboard/Pictures/Album.jpg)
 ![](MotorDriver_UnipolarStepperMotor_RS232/Pictures/Album.jpg)
 ![](DigitalMeter_Ultrasonic_SRF02/Pictures/Album.jpg)
 ![](TextDisplay_USB/Pictures/Album.jpg)
@@ -18,5 +18,5 @@ I'm uploading my personal projects on the repository.
 |[MotorDriver_UnipolarStepperMotor_RS232](MotorDriver_UnipolarStepperMotor_RS232)|Y|Y|
 |[RelayController_LaserPointer_1CH](RelayController_LaserPointer_1CH)|-|Y|
 |[TelCardReader](TelCardReader)|Y|-|
-|[TextDisplay_Keybord](TextDisplay_Keybord)|Y|-|
+|[TextDisplay_Keyboard](TextDisplay_Keyboard)|Y|-|
 |[TextDisplay_USB](TextDisplay_USB)|Y|Y|
