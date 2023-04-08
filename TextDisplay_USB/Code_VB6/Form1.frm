@@ -3,8 +3,8 @@ Object = "{648A5603-2C6E-101B-82B6-000000000014}#1.1#0"; "MSCOMM32.OCX"
 Begin VB.Form Form1 
    BackColor       =   &H00E0E0E0&
    BorderStyle     =   4  'Fixed ToolWindow
-   Caption         =   "Form1"
-   ClientHeight    =   2190
+   Caption         =   "Typing on the LCD"
+   ClientHeight    =   1110
    ClientLeft      =   3195
    ClientTop       =   3825
    ClientWidth     =   5580
@@ -20,8 +20,9 @@ Begin VB.Form Form1
    LinkTopic       =   "Form1"
    MaxButton       =   0   'False
    MinButton       =   0   'False
-   ScaleHeight     =   2190
+   ScaleHeight     =   1110
    ScaleWidth      =   5580
+   ShowInTaskbar   =   0   'False
    Begin VB.ComboBox Combo1 
       BeginProperty Font 
          Name            =   "Times New Roman"
@@ -33,11 +34,11 @@ Begin VB.Form Form1
          Strikethrough   =   0   'False
       EndProperty
       Height          =   345
-      Left            =   4680
+      Left            =   4440
       TabIndex        =   2
       Text            =   "1"
-      Top             =   0
-      Width           =   855
+      Top             =   120
+      Width           =   1095
    End
    Begin VB.TextBox Text1 
       BackColor       =   &H00FFFFFF&
@@ -51,10 +52,10 @@ Begin VB.Form Form1
          Strikethrough   =   0   'False
       EndProperty
       Height          =   405
-      Left            =   840
+      Left            =   120
       MaxLength       =   16
       TabIndex        =   1
-      Top             =   840
+      Top             =   120
       Width           =   3975
    End
    Begin VB.TextBox Text2 
@@ -69,15 +70,15 @@ Begin VB.Form Form1
          Strikethrough   =   0   'False
       EndProperty
       Height          =   405
-      Left            =   840
+      Left            =   120
       MaxLength       =   16
       TabIndex        =   0
-      Top             =   1320
+      Top             =   600
       Width           =   3975
    End
    Begin MSCommLib.MSComm MSComm1 
       Left            =   5040
-      Top             =   1680
+      Top             =   480
       _ExtentX        =   794
       _ExtentY        =   794
       _Version        =   393216
@@ -91,6 +92,7 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 'GitHub Account: GitHub.com/AliRezaJoodi
+
 Dim CPN As Byte
 Dim i As Byte
 
