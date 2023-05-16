@@ -1,4 +1,4 @@
-## Gas Leak Detector or Fire Alarm
+## Gas Leak Detector Or Fire Alarm
 It's usable for MQx Gas Sensors.  	   
 MCU:		PIC16F877A  
 Frequency:     	8MHz (External Crystal)   

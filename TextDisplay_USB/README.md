@@ -1,4 +1,4 @@
-## Text Control on the LCD with a computer
+## Text Control On The LCD With A Computer
 Frame format is
 |Line Command|Text|End Chr|Description|
 |:-----------|:---|:------|:----------|
