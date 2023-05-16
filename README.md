@@ -1,10 +1,6 @@
 # PIC Microcontroller Projects
-<<<<<<< Updated upstream
-I'm uploading my personal projects on the repository.
-=======
 Note: The projects are my college experience.  
 Note: The projects are prototype and should get better. 
->>>>>>> Stashed changes
 
 ### Table of Contents
 |Picture|Title|mikroC for PIC|PIC Basic PRO|
@@ -15,8 +11,4 @@ Note: The projects are prototype and should get better.
 |![](RelayController_LaserPointer_1CH/Pictures/Album.jpg)|[RelayController_LaserPointer_1CH](RelayController_LaserPointer_1CH)|-|Y|
 |![](TelCardReader/Pictures/Album.jpg)|[TelCardReader](TelCardReader)|Y|-|
 |![](TextDisplay_Keyboard/Pictures/Album.jpg)|[TextDisplay_Keyboard](TextDisplay_Keyboard)|Y|-|
-<<<<<<< Updated upstream
 |![](TextDisplay_USB/Pictures/Album.jpg)|[TextDisplay_USB](TextDisplay_USB)|Y|Y|
-=======
-|![](TextDisplay_USB/Pictures/Album.jpg)|[TextDisplay_USB](TextDisplay_USB)|Y|Y|
->>>>>>> Stashed changes
