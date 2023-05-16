@@ -1,5 +1,4 @@
-# PIC Microcontroller Projects
-Note: The projects are my college experience.  
+# PIC Microcontroller Projects 
 Note: The projects are prototype and should get better. 
 
 ### Table of Contents
