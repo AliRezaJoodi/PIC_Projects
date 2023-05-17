@@ -1,4 +1,4 @@
-## Digital Meter Using SRF02 Ultrasonic Moudle
+## Digital Meter Using A SRF02 Ultrasonic Moudle
 	   
 MCU:		PIC16F877A   
 Frequency:     	8MHz (External Crystal)   

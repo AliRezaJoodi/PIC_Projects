@@ -1,4 +1,4 @@
-## Unipolar Step Motor Controller With Computer (RS232)
+## Unipolar Step Motor Controller With A Computer (RS232)
 	   
 MCU:			PIC16F877A  
 Frequency:     		8MHz (External Crystal)  
