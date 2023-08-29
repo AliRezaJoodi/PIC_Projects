@@ -1,4 +1,4 @@
-## 1CH Relay Controller With A Laser Pointer
+## 1CH Relay Controller With Laser Pointer
 There are one relay and two LDR sensors. One of them activates the relay and the other deactivates it.  
 MCU:		PIC16F877A    
 Frequency:     	8MHz (External Crystal)    
