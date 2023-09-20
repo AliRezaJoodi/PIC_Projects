@@ -10,4 +10,4 @@ Note: The projects are prototype and should get better.
 |![](RelayController_LaserPointer_1CH/Pictures/Album.jpg)|[1CH Relay Controller With Laser Pointer](RelayController_LaserPointer_1CH)|-|Y|
 |![](TelCardReader/Pictures/Album.jpg)|[Tel Card Reader](TelCardReader)|Y|-|
 |![](TextDisplay_Keyboard/Pictures/Album.jpg)|[Text Control on the LCD With PS2 Keyboard](TextDisplay_Keyboard)|Y|-|
-|![](TextDisplay_USB/Pictures/Album.jpg)|[Text Control On The LCD With Computer (USB)](TextDisplay_USB)|Y|Y|
+|![](TextDisplay_USB/Pictures/Album.jpg)|[Text Control On LCD With Computer (USB)](TextDisplay_USB)|Y|Y|

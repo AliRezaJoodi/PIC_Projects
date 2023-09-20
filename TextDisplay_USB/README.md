@@ -1,4 +1,4 @@
-## Text Control On The LCD With Computer (USB)
+## Text Control On LCD With Computer (USB)
 Frame format is
 |Line Command|Text|End Chr|Description|
 |:-----------|:---|:------|:----------|
