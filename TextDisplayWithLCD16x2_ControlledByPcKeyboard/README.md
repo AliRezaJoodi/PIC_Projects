@@ -1,4 +1,4 @@
-## Text Control On The LCD With PS2 Keyboard  	   
+## Text Display With 16*2 LCD and Controlled By PS2 Keyboard 	   
 MCU:		PIC16F877A  
 Frequency:     	8MHz (External Crystal)   
 Display:        16x2 LCD   
