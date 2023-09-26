@@ -7,9 +7,9 @@ Frame format is
 	   
 MCU:			PIC16F877A  
 Frequency:     		8MHz (External Crystal)   
-Display:        	16x2 LCD        
-Computer Interfacing:	UART to USB Converter  
-Computer Software:	VB6	
+Display:        	16x2 LCD  
+Computer Interfacing:	UART to USB Converter with FT232BL  
+Computer Software:	VB6  
 
 Note: Included schematic and PCB layout with Proteus  
 Note: It's a prototype and should get better
