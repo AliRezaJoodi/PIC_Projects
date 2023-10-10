@@ -4,7 +4,8 @@ MCU:		PIC16F877A
 Frequency:     	8MHz (External Crystal)    
 
 Note: Included schematic and PCB layout with Proteus  
-Note: It's a easy project with PIC and was a prototype. Although this made using microcontroller but, it could be done with logic gates.  
+Note: It's a prototype and should get better  
+Note: This project can be designed with logic gate easily  
 
 ### Folder and Files Description
 It has included:
